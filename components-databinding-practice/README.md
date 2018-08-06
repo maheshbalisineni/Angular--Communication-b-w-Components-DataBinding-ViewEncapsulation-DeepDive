@@ -1,4 +1,4 @@
-# Angular--Components-DataBinding-DeepDive
+# Angular6-Components-DataBinding-DeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
